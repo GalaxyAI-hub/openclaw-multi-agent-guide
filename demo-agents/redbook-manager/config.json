@@ -1,0 +1,10 @@
+{
+  "agentId": "redbook-manager",
+  "name": "小红书主管",
+  "nameEn": "RedBook Manager",
+  "definition": "小红书主管.md",
+  "canCommunicateWith": ["ceo", "secretary", "intel-director", "wechat-manager", "ops-director", "product-manager", "tech-lead", "finance-buddy", "investor", "biz-advisor", "knowledge-lib"],
+  "enabled": true,
+  "createdAt": "2026-04-23",
+  "version": "1.0.0"
+}

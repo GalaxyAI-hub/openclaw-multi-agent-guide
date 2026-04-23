@@ -1,0 +1,10 @@
+{
+  "agentId": "finance-buddy",
+  "name": "财务管家",
+  "nameEn": "Finance Buddy",
+  "definition": "财务管家.md",
+  "canCommunicateWith": ["ceo", "secretary", "intel-director", "wechat-manager", "redbook-manager", "ops-director", "product-manager", "tech-lead", "investor", "biz-advisor", "knowledge-lib"],
+  "enabled": true,
+  "createdAt": "2026-04-23",
+  "version": "1.0.0"
+}

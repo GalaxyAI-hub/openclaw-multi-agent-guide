@@ -1,0 +1,10 @@
+{
+  "agentId": "knowledge-lib",
+  "name": "知识管家",
+  "nameEn": "Knowledge Lib",
+  "definition": "知识管家.md",
+  "canCommunicateWith": ["ceo", "secretary", "intel-director", "wechat-manager", "redbook-manager", "ops-director", "product-manager", "tech-lead", "finance-buddy", "investor", "biz-advisor"],
+  "enabled": true,
+  "createdAt": "2026-04-23",
+  "version": "1.0.0"
+}

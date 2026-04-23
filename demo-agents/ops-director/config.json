@@ -1,0 +1,10 @@
+{
+  "agentId": "ops-director",
+  "name": "运营总监",
+  "nameEn": "Ops Director",
+  "definition": "运营总监.md",
+  "canCommunicateWith": ["ceo", "secretary", "intel-director", "wechat-manager", "redbook-manager", "product-manager", "tech-lead", "finance-buddy", "investor", "biz-advisor", "knowledge-lib"],
+  "enabled": true,
+  "createdAt": "2026-04-23",
+  "version": "1.0.0"
+}

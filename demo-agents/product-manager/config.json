@@ -1,0 +1,10 @@
+{
+  "agentId": "product-manager",
+  "name": "产品经理",
+  "nameEn": "Product Manager",
+  "definition": "产品经理.md",
+  "canCommunicateWith": ["ceo", "secretary", "intel-director", "wechat-manager", "redbook-manager", "ops-director", "tech-lead", "finance-buddy", "investor", "biz-advisor", "knowledge-lib"],
+  "enabled": true,
+  "createdAt": "2026-04-23",
+  "version": "1.0.0"
+}

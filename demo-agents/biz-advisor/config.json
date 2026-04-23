@@ -1,0 +1,10 @@
+{
+  "agentId": "biz-advisor",
+  "name": "商业顾问",
+  "nameEn": "Business Advisor",
+  "definition": "商业顾问.md",
+  "canCommunicateWith": ["ceo", "secretary", "intel-director", "wechat-manager", "redbook-manager", "ops-director", "product-manager", "tech-lead", "finance-buddy", "investor", "knowledge-lib"],
+  "enabled": true,
+  "createdAt": "2026-04-23",
+  "version": "1.0.0"
+}

@@ -1,0 +1,10 @@
+{
+  "agentId": "tech-lead",
+  "name": "技术总监",
+  "nameEn": "Tech Lead",
+  "definition": "技术总监.md",
+  "canCommunicateWith": ["ceo", "secretary", "intel-director", "wechat-manager", "redbook-manager", "ops-director", "product-manager", "finance-buddy", "investor", "biz-advisor", "knowledge-lib"],
+  "enabled": true,
+  "createdAt": "2026-04-23",
+  "version": "1.0.0"
+}

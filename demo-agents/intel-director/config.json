@@ -1,0 +1,10 @@
+{
+  "agentId": "intel-director",
+  "name": "情报总监",
+  "nameEn": "Intel Director",
+  "definition": "情报总监.md",
+  "canCommunicateWith": ["ceo", "secretary", "wechat-manager", "redbook-manager", "ops-director", "product-manager", "tech-lead", "finance-buddy", "investor", "biz-advisor", "knowledge-lib"],
+  "enabled": true,
+  "createdAt": "2026-04-23",
+  "version": "1.0.0"
+}
